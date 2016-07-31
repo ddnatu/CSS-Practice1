@@ -1,0 +1,42 @@
+.mainDiv{
+	margin: 0;
+	padding: 0;
+	font-size: 0;
+	}
+	.div1{
+		text-align: center;
+		background-color: blue;
+		display: inline-block;
+		width: calc(100vw - 66.6%);
+    	height: calc(100vh - 200px);
+	}
+	.div1Span{
+		position: relative;
+		top:200px;
+		font-weight: bold;
+	}
+	.div2Span{
+		position: relative;
+		top:200px;
+		font-weight: bold;
+	}
+	.div3Span{
+		position: relative;
+		top:200px;
+		font-weight: bold;
+	}
+
+	.div2{
+		text-align: center;
+		background-color: red;
+		display: inline-block;
+		width: calc(100vw - 66.6%);
+    	height: calc(100vh - 200px);
+	}
+	.div3{
+		text-align: center;
+		background-color: green;
+		display: inline-block;
+    	height: calc(100vh - 200px);
+	}	
+
